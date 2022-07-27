@@ -2,4 +2,10 @@ Hi there
 How are you
 created new branch as name NewBranch
 Push
+<<<<<<< HEAD
 PR conflict scenario issue in confbr
+=======
+
+Conflict scenario
+new confbr
+>>>>>>> main
